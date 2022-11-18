@@ -5,7 +5,7 @@ Es un software libre y de código abierto, implementado en el lenguaje de progra
 La longitud del medio poroso puede ser tan grande como uno desee, lo cual nos permite analizar la evolución de la porosidad a diferentes escalas. Entonces, el escalamiento de la porosidad $E_{\phi}$ está dado por la siguiente ecuación:
 
 \begin{\equation}
-$E_{\phi} = \frac{d \phi}{d L}$
+E_{\phi} = \frac{d \phi}{d L}
 \end{\equation}
 donde $\phi$ es la porosidad, $L$ es la longitud del medio poroso.
 
