@@ -9,3 +9,4 @@ Como trabajo futuro, se desea implementar un medio poroso interconectado tridime
 Para obtener desde una hasta varias imágenes de medios porosos conectados de diferentes tamaños, solamente debemos correr el programa graphycs.py (ver la carpeta de images)
 
 ![movie](https://user-images.githubusercontent.com/106560403/202592243-fc55628f-cce9-47b7-8515-d40f4f72ebb3.gif)
+![Porosidad_Escala](https://user-images.githubusercontent.com/106560403/202599845-c7905025-c00d-4c27-adf2-f06abed064b6.png)
