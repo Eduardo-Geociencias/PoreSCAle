@@ -4,7 +4,9 @@ Es un software libre y de código abierto, implementado en el lenguaje de progra
 
 La longitud del medio poroso puede ser tan grande como uno desee, lo cual nos permite analizar la evolución de la porosidad a diferentes escalas.
 
-$\frac{1}{2}$
+$\frac{d \phi}{d L} = E_{\phi}$
+
+donde $\phi$ es la porosidad, $L$ es la longitud del medio poroso y $E_{\phi}$ es el escalamiento de la porosidad.
 
 Como trabajo futuro, se desea implementar un medio poroso interconectado tridimensional (con vóxeles) que simule y replique el medio poroso en una microtomografía computarizada de rayos X de una muestra cilíndrica de roca volcánica del Campo Geotérmico "Los Humeros", en Puebla, México. 
 
